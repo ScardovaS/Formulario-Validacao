@@ -16,13 +16,13 @@ Projeto simples de formulário com validação em JavaScript, feito para treinar
 - Mensagens dinâmicas para o usuário
 - Layout centralizado na tela
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
-## 📚 O que eu aprendi
+## O que eu aprendi
 
 - Manipulação do DOM
 - Eventos de formulário (`submit`)
@@ -30,7 +30,7 @@ Projeto simples de formulário com validação em JavaScript, feito para treinar
 - Organização de código
 - Boas práticas iniciais de front-end
 
-## 📌 Próximos passos
+## Próximos passos
 - Melhorar o design
 - Responsividade
 - Exibir mensagens individuais por campo
