@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+input {
+  border: 2px solid #ccc;
+  padding: 8px;
+  outline: none;
+}
+
+input.erro {
+  border-color: red;
+}
+
+input.sucesso {
+  border-color: green;
+}
+
+#mensagem {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#mensagem.erro {
+  color: red;
+}
+
+#mensagem.sucesso {
+  color: green;
+}
+
+form {
+  width: 100%;
+  padding: 20px;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  max-width: 600px;
+}
+
+.campo {
+  display : flex;
+  flex-direction: column;
+  gap : 4px;
+}
+
+#criar {
+  grid-column: span 2 ;
+  justify-self: center;
+}
+
+.campogen{
+  grid-column: span 2;
+  justify-self : center;
+}
